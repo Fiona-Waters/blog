@@ -6,13 +6,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Fiona Waters',
-  tagline: 'Welcome to my world...',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'Welcome',
+  tagline: 'Welcome to my blog...',
+  url: 'https://fiona-waters-blog.netlify.app/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  // favicon: 'img/favicon.ico',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
